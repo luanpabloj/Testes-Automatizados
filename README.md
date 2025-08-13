@@ -1,4 +1,4 @@
-# Testes Automatizados para QA
+# Descrição do repositório
 
 Neste repositório organizo pastas com códigos de testes automatizados desenvolvidos durante meus estudos para a área de QA.
 Meu objetivo principal é praticar e me preparar para atuar como QA Junior.
