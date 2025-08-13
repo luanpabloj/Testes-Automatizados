@@ -11,6 +11,5 @@ Nem todos os códigos aqui são de minha autoria, muitos foram clonados de outro
 - Java
 - Selenium WebDriver
 - JUnit 5
-- Spring Boot (para os projetos web de teste)
-
+- Spring Boot
 ---
